@@ -1,8 +1,8 @@
-# simple-react-full-stack
+# react-express-boilerplate
 
 This is a boilerplate to build a full stack web application using React, Node.js, Express and Webpack. It is also configured with webpack-dev-server, ESLint, Prettier & Babel.
 
-- [simple-react-full-stack](#simple-react-full-stack)
+- [react-express-boilerplate](#react-express-boilerplate)
   - [Introduction](#introduction)
     - [Development mode](#development-mode)
     - [Production mode](#production-mode)
